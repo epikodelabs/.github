@@ -4,9 +4,7 @@ We're building modern open-source tools that make application development simple
 
 Our focus is on **reactive state management**, great developer experience, and composable architecture.
 
-## 🚀 Projects
-
-### 🌊 [streamix](https://github.com/epikodelabs/streamix)
+### 🌊 streamix
 
 A modern reactive state library built around **atoms**, **flows**, **scopes**, and composable operators.
 
@@ -19,7 +17,7 @@ A modern reactive state library built around **atoms**, **flows**, **scopes**, a
 - **Repository:** [github.com/epikodelabs/streamix](https://github.com/epikodelabs/streamix)
 - **Discussions:** [github.com/epikodelabs/streamix/discussions](https://github.com/epikodelabs/streamix/discussions)
 
-### 🏗️ [actionstack](https://github.com/epikodelabs/actionstack)
+### 🏗️ actionstack
 
 A modular state management framework powered by Streamix, designed for scalable application architecture.
 
@@ -33,7 +31,7 @@ A modular state management framework powered by Streamix, designed for scalable 
 - **Repository:** [github.com/epikodelabs/actionstack](https://github.com/epikodelabs/actionstack)
 - **Discussions:** [github.com/epikodelabs/actionstack/discussions](https://github.com/epikodelabs/actionstack/discussions)
 
-## 💬 Community
+### Community
 
 Questions, ideas, feature requests, and feedback are always welcome.
 
