@@ -8,11 +8,11 @@ Our focus is on **reactive state management**, great developer experience, and c
 
 A modern reactive state library built around **atoms**, **flows**, **scopes**, and composable operators.
 
-![](https://img.shields.io/badge/⚡-Fast-blue?style=flat-square)
-![](https://img.shields.io/badge/🧩-Composable-blue?style=flat-square)
-![](https://img.shields.io/badge/🪶-Lightweight-blue?style=flat-square)
-![](https://img.shields.io/badge/🔒-Fully%20Typed-blue?style=flat-square)
-![](https://img.shields.io/badge/🔄-Sync%20%26%20Async-blue?style=flat-square)
+![⚡ Fast](https://img.shields.io/badge/⚡%20Fast-0f172a?style=flat)
+![🧩 Composable](https://img.shields.io/badge/🧩%20Composable-0f172a?style=flat)
+![🪶 Lightweight](https://img.shields.io/badge/🪶%20Lightweight-0f172a?style=flat)
+![🔒 Fully Typed](https://img.shields.io/badge/🔒%20Fully%20Typed-0f172a?style=flat)
+![🔄 Sync%20%26%20Async](https://img.shields.io/badge/🔄%20Sync%20%26%20Async-0f172a?style=flat)
 
 - **Repository:** [github.com/epikodelabs/streamix](https://github.com/epikodelabs/streamix)
 - **Discussions:** [github.com/epikodelabs/streamix/discussions](https://github.com/epikodelabs/streamix/discussions)
@@ -21,12 +21,12 @@ A modern reactive state library built around **atoms**, **flows**, **scopes**, a
 
 A modular state management framework powered by Streamix, designed for scalable application architecture.
 
-![](https://img.shields.io/badge/🧩-Feature%20Modules-blue?style=flat-square)
-![](https://img.shields.io/badge/⚡-Reactive%20Stores-blue?style=flat-square)
-![](https://img.shields.io/badge/🏷️-Typed%20Actions-blue?style=flat-square)
-![](https://img.shields.io/badge/🎯-Selectors-blue?style=flat-square)
-![](https://img.shields.io/badge/💉-Dependency%20Injection-blue?style=flat-square)
-![](https://img.shields.io/badge/🏗️-Clean%20Composition-blue?style=flat-square)
+![📦 Feature Modules](https://img.shields.io/badge/📦%20Feature%20Modules-0f172a?style=flat)
+![⚡ Reactive Stores](https://img.shields.io/badge/⚡%20Reactive%20Stores-0f172a?style=flat)
+![🧷 Typed Actions](https://img.shields.io/badge/🧷%20Typed%20Actions-0f172a?style=flat)
+![🎯 Selectors](https://img.shields.io/badge/🎯%20Selectors-0f172a?style=flat)
+![💉 Dependency Injection](https://img.shields.io/badge/💉%20Dependency%20Injection-0f172a?style=flat)
+![🏗️ Clean Composition](https://img.shields.io/badge/🏗️%20Clean%20Composition-0f172a?style=flat)
 
 - **Repository:** [github.com/epikodelabs/actionstack](https://github.com/epikodelabs/actionstack)
 - **Discussions:** [github.com/epikodelabs/actionstack/discussions](https://github.com/epikodelabs/actionstack/discussions)
