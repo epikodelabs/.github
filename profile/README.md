@@ -7,6 +7,7 @@ Our focus is on **reactive state management**, great developer experience, and c
 ### 🌊 streamix
 
 A modern reactive state library built around **atoms**, **flows**, **scopes**, and composable operators.
+We're preparing the release of **Streamix v3** and plan to share it during the first ten days of September 2026. This release marks the next major step for the library, with more details to follow as we get closer to launch.
 
 ![⚡ Fast](https://img.shields.io/badge/⚡%20Fast-transparent?style=flat&color=64748b)
 ![🧩 Composable](https://img.shields.io/badge/🧩%20Composable-transparent?style=flat&color=64748b)
@@ -19,7 +20,7 @@ A modern reactive state library built around **atoms**, **flows**, **scopes**, a
 
 ### 🏗️ actionstack
 
-A modular state management framework powered by Streamix, designed for scalable application architecture.
+A modular state management framework powered by Streamix, designed for scalable application architecture. A compatible **actionstack** version will arrive a little later, shortly after the Streamix v3 release.
 
 ![📦 Feature Modules](https://img.shields.io/badge/📦%20Feature%20Modules-transparent?style=flat&labelColor=transparent&color=64748b)
 ![⚡ Reactive Stores](https://img.shields.io/badge/⚡%20Reactive%20Stores-transparent?style=flat&labelColor=transparent&color=64748b)
