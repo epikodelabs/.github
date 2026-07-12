@@ -15,8 +15,8 @@ We're preparing the release of **Streamix v3** and plan to share it during the f
 ![🔒 Fully Typed](https://img.shields.io/badge/🔒%20Fully%20Typed-transparent?style=flat&color=64748b)
 ![🔄 Sync%20%26%20Async](https://img.shields.io/badge/🔄%20Sync%20%26%20Async-transparent?style=flat&color=64748b)
 
-- **Repository:** [github.com/epikodelabs/streamix](https://github.com/epikodelabs/streamix)
-- **Discussions:** [github.com/epikodelabs/streamix/discussions](https://github.com/epikodelabs/streamix/discussions)
+- **Repository:** [github.com/epikodelabs/streamix-community](https://github.com/epikodelabs/streamix-community)
+- **Discussions:** [github.com/epikodelabs/streamix/discussions-community](https://github.com/epikodelabs/streamix-community/discussions)
 
 ### 🏗️ actionstack
 
@@ -29,8 +29,8 @@ A modular state management framework powered by Streamix, designed for scalable 
 ![💉 Dependency Injection](https://img.shields.io/badge/💉%20Dependency%20Injection-transparent?style=flat&labelColor=transparent&color=64748b)
 ![🏗️ Clean Composition](https://img.shields.io/badge/🏗️%20Clean%20Composition-transparent?style=flat&labelColor=transparent&color=64748b)
 
-- **Repository:** [github.com/epikodelabs/actionstack](https://github.com/epikodelabs/actionstack)
-- **Discussions:** [github.com/epikodelabs/actionstack/discussions](https://github.com/epikodelabs/actionstack/discussions)
+- **Repository:** [github.com/epikodelabs/actionstack-community](https://github.com/epikodelabs/actionstack-community)
+- **Discussions:** [github.com/epikodelabs/actionstack/discussions-community](https://github.com/epikodelabs/actionstack-community/discussions)
 
 ### Community
 
