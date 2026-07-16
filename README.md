@@ -1,5 +1,3 @@
-# EpikodeLabs — Organization Configuration
-
 This repository contains shared GitHub configuration and public profile resources for the [EpikodeLabs](https://github.com/epikodelabs) organization.
 
 ## Organization profile
