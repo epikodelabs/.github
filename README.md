@@ -1,8 +1,7 @@
-This repository contains shared GitHub configuration and public profile resources for the [EpikodeLabs](https://github.com/epikodelabs) organization.
-
 ## Organization profile
 
-The content displayed on the Epikode Labs organization homepage is maintained in:
+This repository contains shared GitHub configuration and public profile resources for the [EpikodeLabs](https://github.com/epikodelabs) organization.
+The content displayed on the EpikodeLabs organization homepage is maintained in:
 
 ```text
 profile/README.md
