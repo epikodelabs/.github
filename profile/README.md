@@ -1,4 +1,4 @@
-# 👋 Welcome to @epikodelabs
+# 👋 Welcome to EpikodeLabs
 
 We're building modern open-source tools that make application development simpler, faster, and more enjoyable.
 
