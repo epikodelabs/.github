@@ -18,7 +18,7 @@ Streamix v2 is currently fully available for a limited time from the link below,
 ![🔄 Sync%20%26%20Async](https://img.shields.io/badge/🔄%20Sync%20%26%20Async-transparent?style=flat&color=64748b)
 
 - **Repository:** [github.com/epikodelabs/streamix-community](https://github.com/epikodelabs/streamix-community)
-- **Discussions:** [github.com/epikodelabs/streamix/discussions-community](https://github.com/epikodelabs/streamix-community/discussions)
+- **Discussions:** [github.com/epikodelabs/streamix-community/discussions](https://github.com/epikodelabs/streamix-community/discussions)
 
 ### 🏗️ actionstack
 
@@ -32,7 +32,7 @@ A modular state management framework powered by Streamix, designed for scalable 
 ![🏗️ Clean Composition](https://img.shields.io/badge/🏗️%20Clean%20Composition-transparent?style=flat&labelColor=transparent&color=64748b)
 
 - **Repository:** [github.com/epikodelabs/actionstack-community](https://github.com/epikodelabs/actionstack-community)
-- **Discussions:** [github.com/epikodelabs/actionstack/discussions-community](https://github.com/epikodelabs/actionstack-community/discussions)
+- **Discussions:** [github.com/epikodelabs/actionstack-community/discussions](https://github.com/epikodelabs/actionstack-community/discussions)
 
 ### Community
 
