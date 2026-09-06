@@ -1,45 +1,41 @@
-# 👋 EpikodeLabs
+# 👋 Welcome to EpikodeLabs
 
-We build open-source tools for applications where **state, data, and behavior need to stay understandable as the codebase grows**.
+We're building modern open-source tools that make application development simpler, faster, and more enjoyable.
 
-Our libraries focus on reactive programming, strong TypeScript APIs, composable architecture, and keeping infrastructure out of application logic.
+Our focus is on **reactive state management**, great developer experience, and composable architecture.
 
-## 🌊 Streamix
+### 🌊 streamix
 
-A reactive TypeScript library built around **atoms, derived state, flows, scopes, and composable operators**.
+A modern reactive state library built around **atoms**, **flows**, **scopes**, and composable operators.
+We're preparing the release of **Streamix v3** and plan to share it during the first ten days of September 2026. This release marks the next major step for the library, with more details to follow as we get closer to launch.
 
-Streamix is designed for both synchronous and asynchronous application logic, with a small set of primitives that work together instead of separate abstractions for every problem.
+![⚡ Fast](https://img.shields.io/badge/⚡%20Fast-transparent?style=flat&color=64748b)
+![🧩 Composable](https://img.shields.io/badge/🧩%20Composable-transparent?style=flat&color=64748b)
+![🪶 Lightweight](https://img.shields.io/badge/🪶%20Lightweight-transparent?style=flat&color=64748b)
+![🔒 Fully Typed](https://img.shields.io/badge/🔒%20Fully%20Typed-transparent?style=flat&color=64748b)
+![🔄 Sync%20%26%20Async](https://img.shields.io/badge/🔄%20Sync%20%26%20Async-transparent?style=flat&color=64748b)
 
-![⚡ Reactive](https://img.shields.io/badge/⚡%20Reactive-transparent?style=flat\&color=64748b)
-![🧩 Composable](https://img.shields.io/badge/🧩%20Composable-transparent?style=flat\&color=64748b)
-![🔒 Fully Typed](https://img.shields.io/badge/🔒%20Fully%20Typed-transparent?style=flat\&color=64748b)
-![🔄 Sync %26 Async](https://img.shields.io/badge/🔄%20Sync%20%26%20Async-transparent?style=flat\&color=64748b)
+- **Repository:** [github.com/epikodelabs/streamix](https://github.com/epikodelabs/streamix)
+- **Discussions:** [github.com/epikodelabs/streamix/discussions](https://github.com/epikodelabs/streamix/discussions)
 
-**For code that reads like logic, not infrastructure.**
+### 🏗️ actionstack
 
-* **Repository:** https://github.com/epikodelabs/streamix
-* **Discussions:** https://github.com/epikodelabs/streamix/discussions
+A modular state management framework powered by Streamix, designed for scalable application architecture. A compatible **actionstack** version will arrive a little later, shortly after the Streamix v3 release.
 
-## 🏗️ Actionstack
+![📦 Feature Modules](https://img.shields.io/badge/📦%20Feature%20Modules-transparent?style=flat&labelColor=transparent&color=64748b)
+![⚡ Reactive Stores](https://img.shields.io/badge/⚡%20Reactive%20Stores-transparent?style=flat&labelColor=transparent&color=64748b)
+![🧷 Typed Actions](https://img.shields.io/badge/🧷%20Typed%20Actions-transparent?style=flat&labelColor=transparent&color=64748b)
+![🎯 Selectors](https://img.shields.io/badge/🎯%20Selectors-transparent?style=flat&labelColor=transparent&color=64748b)
+![💉 Dependency Injection](https://img.shields.io/badge/💉%20Dependency%20Injection-transparent?style=flat&labelColor=transparent&color=64748b)
+![🏗️ Clean Composition](https://img.shields.io/badge/🏗️%20Clean%20Composition-transparent?style=flat&labelColor=transparent&color=64748b)
 
-A modular application-state architecture powered by Streamix.
+- **Repository:** [github.com/epikodelabs/actionstack](https://github.com/epikodelabs/actionstack)
+- **Discussions:** [github.com/epikodelabs/actionstack/discussions](https://github.com/epikodelabs/actionstack/discussions)
 
-Actionstack adds structure around reactive state with **feature modules, typed actions, stores, selectors, and dependency injection**, while keeping features independently composable.
+### Community
 
-A Streamix v3-compatible Actionstack release will follow shortly after Streamix v3.
+Questions, ideas, feature requests, and feedback are always welcome.
 
-![📦 Feature Modules](https://img.shields.io/badge/📦%20Feature%20Modules-transparent?style=flat\&color=64748b)
-![🧷 Typed Actions](https://img.shields.io/badge/🧷%20Typed%20Actions-transparent?style=flat\&color=64748b)
-![🎯 Selectors](https://img.shields.io/badge/🎯%20Selectors-transparent?style=flat\&color=64748b)
-![💉 Dependency Injection](https://img.shields.io/badge/💉%20Dependency%20Injection-transparent?style=flat\&color=64748b)
+All our repositories have **Discussions enabled** — feel free to jump in.
 
-* **Repository:** https://github.com/epikodelabs/actionstack
-* **Discussions:** https://github.com/epikodelabs/actionstack/discussions
-
-## 💬 Community
-
-Questions, ideas, experiments, feature requests, and criticism are welcome.
-
-Discussions are enabled across our projects. If you're using one of the libraries, building something unusual with it, or think an API could be better, come talk to us.
-
-⭐ If a project is useful to you, give it a star — and tell us what you're building.
+⭐ Star the projects you find useful!

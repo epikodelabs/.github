@@ -31,15 +31,15 @@ The `profile/README.md` file defines the public-facing organization profile, inc
 
 A modern reactive library built around atoms, flows, scopes, and composable operators.
 
-* [Streamix community repository](https://github.com/epikodelabs/streamix-community)
-* [Streamix discussions](https://github.com/epikodelabs/streamix-community/discussions)
+* [Streamix repository](https://github.com/epikodelabs/streamix)
+* [Streamix discussions](https://github.com/epikodelabs/streamix/discussions)
 
 ### Actionstack
 
 A modular state management framework powered by Streamix.
 
-* [Actionstack community repository](https://github.com/epikodelabs/actionstack-community)
-* [Actionstack discussions](https://github.com/epikodelabs/actionstack-community/discussions)
+* [Actionstack repository](https://github.com/epikodelabs/actionstack)
+* [Actionstack discussions](https://github.com/epikodelabs/actionstack/discussions)
 
 ## Community
 

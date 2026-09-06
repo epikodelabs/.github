@@ -1,0 +1,74 @@
+name: Design proposal
+description: Propose a substantial API, architecture, or interoperability change
+title: "[Proposal] "
+labels:
+  - proposal
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for changes that affect architecture, public APIs, interoperability, or long-term project direction.
+
+  - type: input
+    id: project
+    attributes:
+      label: Project / package
+      placeholder: "@epikodelabs/streamix"
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What problem or opportunity motivates this proposal?
+    validations:
+      required: true
+
+  - type: textarea
+    id: goals
+    attributes:
+      label: Goals
+      description: What should the proposal accomplish?
+    validations:
+      required: true
+
+  - type: textarea
+    id: non_goals
+    attributes:
+      label: Non-goals
+      description: What is intentionally out of scope?
+
+  - type: textarea
+    id: design
+    attributes:
+      label: Proposed design
+      description: Explain the behavior, API shape, architecture, or integration.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives
+      description: What other designs were considered and why were they not chosen?
+
+  - type: textarea
+    id: migration
+    attributes:
+      label: Compatibility and migration
+      description: Describe breaking changes, migration requirements, or compatibility risks.
+
+  - type: textarea
+    id: open_questions
+    attributes:
+      label: Open questions
+      description: What still needs discussion?
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and Discussions for related proposals.
+          required: true

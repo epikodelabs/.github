@@ -1,0 +1,54 @@
+name: Feature request
+description: Suggest an improvement or new capability
+title: "[Feature] "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Describe the problem first. For large API or architectural changes, a Discussion may be a better starting point.
+
+  - type: input
+    id: project
+    attributes:
+      label: Project / package
+      placeholder: "@epikodelabs/streamix"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What limitation, friction, or use case are you trying to address?
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed direction
+      description: Describe a possible solution. An exact API is optional.
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: What workarounds or other approaches have you tried?
+
+  - type: textarea
+    id: impact
+    attributes:
+      label: Compatibility / API impact
+      description: Would this require a new API, breaking change, migration, or architectural change?
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and Discussions.
+          required: true
+        - label: I understand substantial API or architecture changes should be discussed before implementation.
+          required: true

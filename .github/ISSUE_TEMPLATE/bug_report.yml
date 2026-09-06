@@ -1,0 +1,79 @@
+name: Bug report
+description: Report a reproducible defect
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. Please provide enough information for us to reproduce it.
+
+  - type: input
+    id: project
+    attributes:
+      label: Project / package
+      description: Which EpikodeLabs project or package is affected?
+      placeholder: "@epikodelabs/streamix"
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      placeholder: "3.x.x or commit SHA"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Minimal reproduction
+      description: Provide code, a repository, or exact steps that reproduce the problem.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Runtime, OS, TypeScript version, framework version, browser, or other relevant details.
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional context
+      description: Logs, stack traces, screenshots, related issues, or anything else that may help.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and Discussions.
+          required: true
+        - label: This is not a security vulnerability.
+          required: true
