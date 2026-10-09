@@ -1,4 +1,4 @@
-# 👋 Welcome to EpikodeLabs
+# 👋 Welcome to EPIKODELABS
 
 We build open-source tools for people who want reactive applications without turning every feature into a maze of subscriptions, reducers, and cleanup code.
 
